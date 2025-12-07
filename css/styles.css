@@ -47,6 +47,7 @@ a {
 
 .contact-information {
   font-style: normal;
+  line-height: 1.5
 }
 
 .contact-information .nav-adress-link {
@@ -113,6 +114,11 @@ a {
 .team {
   background-color: #f4f4fd;
 }
+
+.team-background{
+  background-color: #ffffff
+}
+
 .our-team {
   color: #2e2f42;
   text-align: center;
@@ -130,7 +136,12 @@ a {
   letter-spacing: 0.4px;
   background-color: #ffffff;
 }
-
+.member-position {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
 /* #endregion our team*/
 
 /* #region portfolio*/
@@ -166,7 +177,7 @@ a {
 }
 .logo-footer {
   color: #4d5ae5;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -179,5 +190,6 @@ a {
 }
 .footer-text {
   color: #f4f4fd;
+  line-height: 1.5;
 }
 /* #endregion footer */
