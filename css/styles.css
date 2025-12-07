@@ -39,6 +39,7 @@ a {
   color: #2e2f42;
   font-family: Roboto;
   font-weight: 500;
+  line-height: 1.5
 }
 .nav-list-link:hover,
 .nav-list-link:focus {
